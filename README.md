@@ -34,7 +34,12 @@ Through MongoDB queries & aggregations, we explore **what makes a movie successf
 ---
 
 ## 🗂 **Project Structure**
-📂 BDMA-MongoDB │── 📁 data/ # Movie dataset in JSON format │── 📁 queries/ # MongoDB query scripts │── 📁 dashboard/ # MongoDB Atlas Charts Dashboard │── 📁 notebooks/ # Jupyter Notebooks for analysis │── README.md # Project documentation (this file)
+📂 BDMA-MongoDB 
+│── 📁 data/ # Movie dataset in JSON format 
+│── 📁 queries/ # MongoDB query scripts 
+│── 📁 dashboard/ # MongoDB Atlas Charts Dashboard 
+│── 📁 notebooks/ # Jupyter Notebooks for analysis 
+│── README.md # Project documentation (this file)
 
 ---
 
