@@ -1,6 +1,6 @@
 # 🎬 BDMA-MongoDB: Movie Database Analysis
 
-![MongoDB Compass Dashboard](Movie-Analytics-Dashboard.png)
+![MongoDB Compass Dashboard](Movie%20Analytics%20Dashboard.png)
 
 📌 **Repository Name:** `Abhijeet055002/BDMA-MongoDB`  
 📌 **Project Name:** `Movie Database Analysis using MongoDB`  
